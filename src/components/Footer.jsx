@@ -9,7 +9,7 @@ export default function Footer(){
     return(
         <>
             <div className="bg-black text-white">
-                <div className="container py-10 mx-auto grid grid-cols-3 space-x-3">
+                <div className="container py-10 mx-auto md:grid md:grid-cols-3 space-x-3">
                     <div>
                         <h2 className='text-3xl font-bold content-center'>
                             Follow Us
@@ -41,7 +41,7 @@ export default function Footer(){
                         <p className='my-5'>
                             Phone : 0812-9820-8096
                         <br/>
-                            email : <br/>galihrizkyfahrezy @gmail.com
+                            email : galihrizkyfahrezy@gmail.com
                         </p>
                     </div>
                 </div>
