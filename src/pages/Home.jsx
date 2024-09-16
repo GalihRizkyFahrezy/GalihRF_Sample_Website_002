@@ -4,7 +4,6 @@ import Navbar from "../components/Navbar";
 import Partners from "../components/Partners";
 import Products from "../components/Products";
 import Team from "../components/Team";
-import About from "./About";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faFileShield, faRocket, faServer, faTerminal } from "@fortawesome/free-solid-svg-icons";
 import Footer from "../components/Footer";

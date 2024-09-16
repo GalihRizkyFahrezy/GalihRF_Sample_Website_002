@@ -1,15 +1,12 @@
 
-
 export default function Hero(){
     return(
         <>
-
-
         {
             <div className="bg-black">
                 <div className=" container text-center mx-auto h-screen items-center md:flex flex-row-reverse gap-10 md:animate-fade">
                     <div className="">
-                        <img src="src\assets\cable.jpg" className="w-screen"></img>
+                        <img src='cable.jpg' className="w-screen"></img>
                     </div>
                     <div className="md:items-end md:text-right">
                         <h2 className="font-bold md:text-3xl text-white">

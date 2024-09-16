@@ -41,7 +41,7 @@ export default function Navbar(){
             <div className="bg-blue-500 w-screen py-3 ">
                 <div className="container md:mx-auto flex justify-evenly md:place-content-between text-white text-2xl">
                     <a href="" className="font-bold">
-                        Fiber.co
+                        Fiber.com
                     </a>
                     <div className='hidden md:inline'>
                         {tes}
